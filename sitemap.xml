@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://emilyvt4.github.io/talks/paa2019/</loc>
+      <lastmod>2019-04-06T14:12:57-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://emilyvt4.github.io/categories/</loc>
       <priority>0</priority>
     </url>
@@ -30,6 +38,15 @@
     <url>
     
       <loc>https://emilyvt4.github.io/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://emilyvt4.github.io/talks/</loc>
+      <lastmod>2019-04-06T14:12:57-04:00</lastmod>
       <priority>0</priority>
     </url>
     
