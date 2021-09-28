@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Emily Parker</title>
@@ -7,7 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate><atom:link href="https://emilyvt4.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://emilyvt4.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title></title>
       <link>https://emilyvt4.github.io/home/hero_carousel/</link>
@@ -23,7 +27,7 @@
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
       
       <guid>https://emilyvt4.github.io/home/hero/</guid>
-      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀</description>
+      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
     </item>
     
     <item>
@@ -32,7 +36,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://emilyvt4.github.io/home/about/</guid>
-      <description>About me I am a Postdoctoral Fellow with the Population Studies Center at the University of Michigan. I recently completed my PhD in Policy Analysis and Management at Cornell University, with a concentration in Sociology and minor in Demography. My research focuses on how health and social policies have evolved in the U.S. and how the safety net impacts people’s lives. I also study gender and family, with a focus on changes to modern American union formation.</description>
+      <description>About me I am an incoming Postdoctoral Fellow with the Population Studies Center at the University of Michigan. I recently completed my PhD in Policy Analysis and Management at Cornell University, with a concentration in Sociology and minor in Demography. My research focuses on how health and social policies have evolved in the U.S. and how the safety net impacts people’s lives. I also study gender and family, with a focus on changes to modern American union formation.</description>
     </item>
     
     <item>
